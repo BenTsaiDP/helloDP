@@ -1,3 +1,8 @@
 user john
 add a development file
 for a practice
+
+day01
+going
+
+
