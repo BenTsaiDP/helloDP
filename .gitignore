@@ -1,11 +1,9 @@
-*.bin
-*.db
-*.recipe
-*.filters
-*.idb
-*.exe
-*.vsidx
 
+x64/
+.vs/
+*.filters
+
+#
 *.pdb
 *.aps
 *.log
