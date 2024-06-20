@@ -153,6 +153,10 @@ void CMFCApplication1Dlg::OnPaint()
 		dc->LineTo(1, 1);
 		dc->LineTo(100, 100);
 		dc->Rectangle(100, 120, 300, 300);
+		//a hot fix
+		CRect myRect(100,100,400,150);
+		
+		dc->DrawText(L"hello fix", myRect, 0);
 	}
 }
 
