@@ -148,6 +148,11 @@ void CMFCApplication1Dlg::OnPaint()
 	else
 	{
 		CDialogEx::OnPaint();
+
+		CDC * dc = this->GetWindowDC();
+		dc->LineTo(1, 1);
+		dc->LineTo(100, 100);
+		dc->Rectangle(20, 40, 300, 300);
 	}
 }
 
