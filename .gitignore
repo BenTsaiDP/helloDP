@@ -1,3 +1,10 @@
+*.bin
+*.db
+*.recipe
+*.filters
+*.idb
+*.exe
+*.vsidx
 
 *.pdb
 *.aps
