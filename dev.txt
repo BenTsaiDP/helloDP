@@ -31,4 +31,7 @@ change user git extensions to bentsaidp
 
 set bentsaidp again
 
+set user bentsaigm but not set token (token is bentsaidp)
+
+
 
