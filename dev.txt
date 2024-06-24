@@ -37,5 +37,8 @@ now set bentsaigm token, and user.name is bentsaidp
 
 do again , but email is wrong
 
+token is bentsaigm , username is bentsaidp, email is bentsaigm(bentsai@gmail.com)
+
+
 
 
