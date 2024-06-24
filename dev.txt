@@ -35,5 +35,7 @@ set user bentsaigm but not set token (token is bentsaidp)
 
 now set bentsaigm token, and user.name is bentsaidp
 
+do again , but email is wrong
+
 
 
