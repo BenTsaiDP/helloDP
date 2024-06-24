@@ -33,5 +33,7 @@ set bentsaidp again
 
 set user bentsaigm but not set token (token is bentsaidp)
 
+now set bentsaigm token, and user.name is bentsaidp
+
 
 
