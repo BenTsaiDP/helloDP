@@ -157,6 +157,9 @@ void CMFCApplication1Dlg::OnPaint()
 		CRect myRect(100,100,400,150);
 		
 		dc->DrawText(L"hello fix", myRect, 0);
+
+		int data_len;
+		(void)data_len;
 	}
 }
 
